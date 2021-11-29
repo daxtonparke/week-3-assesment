@@ -38,5 +38,11 @@ img {
 }
 
 .profileButtons{
-	
+	background-color: yellow;
+	border: none;
+	color: black;
+	padding: 15px 15px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
 }
